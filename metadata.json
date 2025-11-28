@@ -1,0 +1,5 @@
+{
+  "name": "UtilityTime",
+  "description": "A privacy-first, offline suite of daily tools featuring a focus timer and unit converter. Zero data collection, purely local.",
+  "requestFramePermissions": []
+}
