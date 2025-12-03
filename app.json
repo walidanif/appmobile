@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "UtilityTime",
+    "slug": "utilitytime",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.anif.utilitytime",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "74811217-7f5d-46fa-a1fe-d3c116210df4"
+      }
+    }
+
+  }
+}

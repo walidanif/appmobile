@@ -6,12 +6,19 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "android": "expo run:android",
+    "ios": "expo run:ios"
   },
   "dependencies": {
+    "expo": "~54.0.25",
+    "expo-modules-core": "^3.0.26",
+    "expo-router": "^6.0.15",
+    "expo-system-ui": "~6.0.8",
+    "lucide-react": "^0.555.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "lucide-react": "^0.555.0"
+    "react-native": "0.81.5"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
